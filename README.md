@@ -2,7 +2,8 @@
 - 👀 I’m interested in developing new things
 - 🌱 I’m currently learning in ASTU
 - 💞️ I’m looking to collaborate on different manner
-- 📫 How to reach me @BISRAT_G
+- 📫 How to reach me 
+-   Telegram=> @BISRAT_G
 
 <!---
 legend123213/legend123213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

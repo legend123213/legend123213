@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abel Wendmu
 - 👀 I’m interested in developing new things
-- 🌱 I’m currently learning in ASTU
 - 💞️ I’m looking to collaborate on different manner
 - 📫 How to reach me 
 -   Telegram=> @BISRAT_G

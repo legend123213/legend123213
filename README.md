@@ -1,19 +1,22 @@
-- 👋 Hi, I’m Abel Wendmu
-- 👀 I’m interested in developing new things
-- 💞️ I’m looking to collaborate on different manner
-- 📫 How to reach me 
--   Telegram=> @BISRAT_G
-
 <!---
 legend123213/legend123213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 [![](https://visitcount.itsvg.in/api?id=legend123213&icon=5&color=0)](https://visitcount.itsvg.in)
 
+# 👋 Hi there! I'm Abel Wendmu!
+I'm a software engineering with a passion for coding and a knack for problem-solving. 💻✨
 
+- 🌱 Currently learning: DevOps practices and mastering Go! 🐹 📚
+- 👯‍♂️ Looking to collaborate on: Open source projects or cool side projects!  and also Backend projects and DevOps automation! 🤖🚀
+- 💬 Ask me about: My latest project or how to survive coding! 😅
+
+## 🤔 Fun Facts
+- I once coded a telegram bot in a weekend (and it was terrible but fun!). 🎮
+- I’m convinced that coffee is the key to good code. ☕️
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=legend123213&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=legend123213&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=legend123213&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=legend123213&theme=transparent&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=legend123213&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
